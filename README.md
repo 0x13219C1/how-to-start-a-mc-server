@@ -22,10 +22,12 @@ LICENSE: CC BY-NC-ND 4.0
 PART 1 基础教程
 
 - 1 前期准备
-  - [1.1 硬件准备](1-1.md)
-    - [1.1.1 本地计算机](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-1.md#1.1.1%20您的本地计算机)
-    - [1.1.2 云服务器](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-1.md#1.1.2%20云服务器)
-  - 1.2 软件准备
+  - [1.1 硬件准备](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-1.md)
+    - [1.1.1 本地计算机](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-1.md#111-您的本地计算机)
+    - [1.1.2 云服务器](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-1.md#112-云服务器)
+  - [1.2 软件准备](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-2.md)
+    - [1.2.1 客户端软件](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-2.md#121-客户端软件)
+    - [1.2.2 服务端软件](https://github.com/0x13219C1/how-to-start-a-mc-server/blob/main/1-2.md#122-服务端软件)
 
 
 
